@@ -1,0 +1,9 @@
+fedora project commands
+
+1. sudo dnf update
+
+2. sudo dnf install python3 python3-tkinter
+
+3. gedit clock.py
+
+4. python3 clock.py
